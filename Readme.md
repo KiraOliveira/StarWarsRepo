@@ -1,6 +1,6 @@
 # Star Wars Repo
 
-![C:\Desenvolvimento\curso-open-source-git-udemy/guardioes-da-galaxia.png] (Guardiões da Galáxia <3)
+![./guardioes-da-galaxia.png] (Guardiões da Galáxia <3)
 
 
 Repositório usado para o urso sobre Git e Contribuições para Projetos Open Source!!!
