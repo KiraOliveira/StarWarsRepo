@@ -1,6 +1,6 @@
 # Star Wars Repo
 
-![./guardioes-da-galaxia.png]()Guardiões da Galáxia <3
+[![./guardioes-da-galaxia.png](Guardiões da Galáxia <3)]
 
 
 
