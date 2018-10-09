@@ -12,4 +12,4 @@ Repositório usado para o urso sobre Git e Contribuições para Projetos Open So
 
 #Baby Groot
 
-![Baby Groot](./baby-groot.gif)
+![Baby Groot](./baby-groot.jpg)
